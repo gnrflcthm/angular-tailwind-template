@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { AfterViewInit, ElementRef, NgModule, ViewChild } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [];

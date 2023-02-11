@@ -1,6 +1,11 @@
-# AngularTailwindTemplate
+# Angular Tailwind Template
 
+Empty Angular project configured with TailwindCSS.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+
+## Before You Start
+
+Don't forget to rename the project folder and all instances of the name of this project in its files. You can start by replacing *angular-tailwind-template* with the kebab-case equivalent of your desired project title. Lastly is to replace *AngularTailwindTemplate* with pascal-case equivalent of your project title. It is preferable that you do this before installing dependencies.
 
 ## Development server
 
